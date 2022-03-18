@@ -9,4 +9,8 @@ add_executable(Altu_Bitu
         #12840.cpp
         #11651.cpp
         #1758.cpp
-        1946.cpp)
+        #1946.cpp
+        #2776.cpp
+        #11478.cpp
+        20291.cpp
+        )
