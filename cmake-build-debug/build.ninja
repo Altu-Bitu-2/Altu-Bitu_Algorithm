@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/LEE$ YUN$ JIN/OneDrive$ -$ ewhain.net/문서/GitHu
 
 build cmake_object_order_depends_target_Altu_Bitu: phony || CMakeFiles/Altu_Bitu.dir
 
-build CMakeFiles/Altu_Bitu.dir/6588.cpp.obj: CXX_COMPILER__Altu_Bitu_Debug C$:/Users/LEE$ YUN$ JIN/OneDrive$ -$ ewhain.net/문서/GitHub/Altu-Bitu_Algorithm/Altu-Bitu/6588.cpp || cmake_object_order_depends_target_Altu_Bitu
-  DEP_FILE = CMakeFiles\Altu_Bitu.dir\6588.cpp.obj.d
+build CMakeFiles/Altu_Bitu.dir/11723.cpp.obj: CXX_COMPILER__Altu_Bitu_Debug C$:/Users/LEE$ YUN$ JIN/OneDrive$ -$ ewhain.net/문서/GitHub/Altu-Bitu_Algorithm/Altu-Bitu/11723.cpp || cmake_object_order_depends_target_Altu_Bitu
+  DEP_FILE = CMakeFiles\Altu_Bitu.dir\11723.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\Altu_Bitu.dir
   OBJECT_FILE_DIR = CMakeFiles\Altu_Bitu.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Altu_Bitu.dir/6588.cpp.obj: CXX_COMPILER__Altu_Bitu_Debug C$:/U
 #############################################
 # Link the executable Altu_Bitu.exe
 
-build Altu_Bitu.exe: CXX_EXECUTABLE_LINKER__Altu_Bitu_Debug CMakeFiles/Altu_Bitu.dir/6588.cpp.obj
+build Altu_Bitu.exe: CXX_EXECUTABLE_LINKER__Altu_Bitu_Debug CMakeFiles/Altu_Bitu.dir/11723.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Altu_Bitu.dir
